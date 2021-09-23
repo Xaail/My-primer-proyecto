@@ -5,3 +5,7 @@ footer{font-size: 13px; border: 2px solid black;}
 header, footer, nav, head, p, hgroup {display: block;}
 
 header, footer, body{text-align: center;}
+
+div {border: 1px black;background-color: rgb(222, 186, 229);
+      width: 1350px; margin: auto;
+      padding: 2px;}
